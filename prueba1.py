@@ -21,6 +21,7 @@ if st.button("Explicar datos curiosos"):
  El usuario te dira que quiere comer. Tu objetivo NO es darle la receta.
  debes darle DATOS CURIOSOS sobre la comida,quien lo inventó,en que año surgió,pais de origen,formas de comerlo.
  utiliza un tono amigable.
+ No seas tan extenso, se breve y conciso.
  La comida de quiere preparar es: """
 
 
